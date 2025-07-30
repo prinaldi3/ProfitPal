@@ -1,1 +1,0 @@
-No external dependencies are strictly required for this CLI. 
