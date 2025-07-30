@@ -11,4 +11,4 @@ As per the description above, you will need to have python installed. If you don
 3) Now, you should be able to run commands like 'pp log -m 7 -d 12 --amt 100'
 4) Start by running pp --help to see all available commands and their arguments
 
->>>>>>> 94a05cd (Initial commit of full project)
+
