@@ -3,9 +3,9 @@ class DataBud:
 
         if data is None:
             self.SavingsAccounts = {
-                "liquid": 9000, 
-                "ira": 8750,
-                "schwab": 16000
+                "liquid": 0, 
+                "ira": 0,
+                "schwab": 0
             }
 
             self.OnHand = {
