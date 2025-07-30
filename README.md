@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-# ProfitPal
-=======
-#PP (ProfitPal)
+# PP (ProfitPal)
 
 A python-based CLI application for logging crucial gig information, generating easy-to-read summaries of financial data, updating account information, and projecting future profits.
 
-#Installation
+# Installation
 
 As per the description above, you will need to have python installed. If you don't have it, I think you can just do pip install python in your terminal? I'm lazy, use google.
 
